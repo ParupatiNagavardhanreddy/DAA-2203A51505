@@ -6,6 +6,8 @@ ASS-1(Bubble): https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/m
 
 ASS-1(Selection): https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/main/ASS-1(DAA)SEC.c
 
+ASS-1 : https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/main/week(1).c
+
 Insertionsort: https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/main/Insertionsort.c
 
 weeK2 (1): https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/main/week2.c
