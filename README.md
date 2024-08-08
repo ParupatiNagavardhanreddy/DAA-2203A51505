@@ -9,3 +9,5 @@ ASS-1(Selection): https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blo
 Insertionsort: https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/main/Insertionsort.c
 
 weeK2 (1): https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/main/week2.c
+
+week2(2): https://github.com/ParupatiNagavardhanreddy/DAA-2203A51505/blob/main/week2.c
